@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+# 👋 Hi, I'm Mrigank Sen<br><br>### 💻 Computer Science Engineering Student | Aspiring Software Engineer | ML Enthusiast<br><br>I'm a Computer Science Engineering student passionate about **software development, artificial intelligence, machine learning, and cybersecurity**. I enjoy building practical projects that solve real-world problems and continuously exploring new technologies.<br><br>---<br><br>## 🚀 Currently Working On<br><br>### 🛡️ VoxShield — Multimodal Voice Clone Detection System<br><br>I'm currently developing **VoxShield**, a multimodal AI-powered system designed to detect **AI-generated/voice-cloned audio and potential voice-based scams**.<br><br>The project focuses on combining multiple signals to improve detection reliability and provide users with actionable insights into suspicious calls and audio.<br><br>**Key focus areas:**<br>- 🎙️ Voice Clone & Deepfake Detection<br>- 🤖 Machine Learning & AI<br>- 🔊 Audio Signal Analysis<br>- 🧠 Multimodal Threat Detection<br>- 🚨 Voice Scam Detection<br>- 📊 Real-Time Risk Analysis<br><br>> *VoxShield is currently under active development.*<br><br>---<br><br>## 📚 Currently Learning<br><br>I'm currently expanding my knowledge in **Machine Learning**, with a focus on:<br><br>- Machine Learning fundamentals<br>- Model training & evaluation<br>- Feature engineering<br>- Deep Learning<br>- Audio & speech processing<br>- AI model deployment<br>- Real-world ML applications<br><br>---<br><br>## 🛠️ Technologies & Interests<br><br>**Languages:**  <br>Python • Java • C • JavaScript • TypeScript<br><br>**Web Development:**  <br>React • Next.js • Node.js • Express • HTML • CSS • Tailwind CSS<br><br>**AI / ML:**  <br>Python • Scikit-learn • Pandas • NumPy • Machine Learning • AI<br><br>**Databases:**  <br>MySQL • PostgreSQL • MongoDB<br><br>**Tools & Platforms:**  <br>Git • GitHub • Docker • Streamlit • AWS • Linux<br><br>**Interests:**  <br>Artificial Intelligence • Machine Learning • Cybersecurity • Full-Stack Development • Cloud Computing • Gaming<br><br>---<br><br>## 🎯 My Goal<br><br>To become a strong **software engineer and AI/ML practitioner** by continuously building projects, solving challenging problems, and learning technologies that can create meaningful real-world impact.<br><br>---<br><br>## ⚡ Fun Fact<br><br>> I can spend hours debugging a single line of code… and then discover that the problem was just a missing semicolon. 😄<br><br>---<br><br>### 📌 Current Status<br><br>🔨 Building **VoxShield**  <br>📚 Learning **Machine Learning**  <br>💡 Exploring **AI & Cybersecurity**  <br>🎮 Gaming when I'm not coding  <br>🚀 Always building something new<br><br>---<br><br>⭐ *Feel free to explore my repositories and follow along with my development journey!*
 
-<!--
-**Mrigank-xd/Mrigank-xd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrigank-sen-ba843827a) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Mrigank-xd&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Mrigank-xd&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mrigank-xd&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://komarev.com/ghpvc/?username=Mrigank-xd&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
